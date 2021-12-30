@@ -1,0 +1,39 @@
+# marqueeStyle {
+   background-color: darkseagreen;
+    
+}
+
+# finally {
+    
+    position:sticky;
+    top:0;
+    z-index:99999;
+    
+}
+
+.cafarteria {
+   border:black solid;
+   width:33.33%;
+   float:right;
+}
+
+
+.thethre {
+border:black solid;
+width:33.33%;
+   float:left;
+}
+
+.libary {
+  border:black solid;
+  width:33.33%;
+    
+     margin: 0 auto;
+}
+
+span {
+    
+    display:block;
+}
+
+
